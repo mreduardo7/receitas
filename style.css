@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+     
+}
+a{
+            color:#d2691e
+        }
+        a:hover{
+            color:#292929
+      }
+      hr{
+        border: 1px solid #ff8400;
+      }
+      img{
+        width:30%; /*largura*/
+        height: auto; /*altura*/
+        border-radius: 5px; /*arredondar bordas*/
+        box-shadow: 3px 3px 5px #292929; /*valor1 e valor2 são projetados da sombra, valor3 espalhamento da sombra, cor da sombra*/
+      }
